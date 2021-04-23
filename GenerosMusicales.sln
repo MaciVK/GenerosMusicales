@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassGenerosMusicales", "ClassGenerosMusicales\ClassGenerosMusicales.csproj", "{F19ACB9E-B37B-4F77-BAE0-A8F5F375B58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfGeneros", "WcfGeneros\WcfGeneros.csproj", "{1C34F8FC-FD93-46EB-B27D-C1A6890614FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19ACB9E-B37B-4F77-BAE0-A8F5F375B58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19ACB9E-B37B-4F77-BAE0-A8F5F375B58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19ACB9E-B37B-4F77-BAE0-A8F5F375B58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19ACB9E-B37B-4F77-BAE0-A8F5F375B58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C34F8FC-FD93-46EB-B27D-C1A6890614FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C34F8FC-FD93-46EB-B27D-C1A6890614FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C34F8FC-FD93-46EB-B27D-C1A6890614FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C34F8FC-FD93-46EB-B27D-C1A6890614FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B4C138-1EFB-4EF4-BD8E-651FFF388902}
+	EndGlobalSection
+EndGlobal
